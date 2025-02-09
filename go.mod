@@ -5,7 +5,7 @@ go 1.21
 require (
 	github.com/libgox/addr v0.2.0
 	github.com/libgox/buffer v0.1.0
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 )
 
 require (
